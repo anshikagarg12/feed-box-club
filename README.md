@@ -1,4 +1,6 @@
 Feedbox club website 
+
+
 This is a dynamic and engagic website designed to give a brief about the feedbox club.
 This project focuses on delivering an intuitive interface and seamless user experience.
 It consists of pages that comprise of about us, team members, contact us and events page.
